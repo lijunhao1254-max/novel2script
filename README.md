@@ -12,6 +12,14 @@
 
 ---
 
+## 🎥 功能演示
+
+<video src="demo/demo.mp4" controls width="100%"></video>
+
+> 完整演示：[demo/demo.mp4](./demo/demo.mp4)
+
+---
+
 ## ✨ 核心功能
 
 ### 📖 小说 → YAML 结构化剧本
@@ -47,7 +55,7 @@
 | UI 组件库 | Element Plus |
 | 路由 | Vue Router 4（Hash 模式） |
 | AI 模型 | 智谱 GLM-4.7-Flash |
-| 打包方式 | vite-plugin-singlefile（单 HTML 文件） |
+| 打包方式 | 多文件构建 + gzip 压缩 |
 
 ---
 
@@ -71,7 +79,9 @@ novel2script-frontend/
 │   │   └── scriptCreate.js   # AI 创作核心引擎
 │   ├── stores/               # Pinia 状态管理
 │   └── router/               # 路由配置
-├── dist/                     # 构建产物（单 HTML 文件）
+├── demo/                    # 功能演示视频
+│   └── demo.mp4
+├── dist/                     # 构建产物
 ├── vite.config.js
 └── package.json
 ```
@@ -84,7 +94,7 @@ novel2script-frontend/
 
 ```bash
 # 克隆项目
-git clone https://github.com/你的用户名/novel2script.git
+git clone https://github.com/lijunhao1254-max/novel2script.git
 cd novel2script
 
 # 安装依赖
@@ -100,7 +110,7 @@ npm run dev
 
 ```bash
 npm run build
-# 产物：dist/index.html（单文件，约 2MB）
+# 产物：dist/ 目录（多文件构建，按需并行加载）
 ```
 
 ### 配置 AI 密钥
