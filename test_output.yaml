@@ -1,0 +1,120 @@
+script:
+  meta:
+    title: "第一章 相遇"
+    source: "用户输入"
+    format: "竖屏短剧"
+    generated_at: "2026-06-06T10:01:15.653Z"
+    stats:
+      characters: 2
+      scenes: 6
+      dialogues: 46
+
+  acts:
+    - act_id: 1
+      act_title: "相遇"
+      scenes:
+        - scene_id: 1
+          location: "室内·咖啡馆"
+          time: "夜"
+          mood: "紧张"
+          scene_note: ""
+          characters:
+            - name: "她直接"
+              role: "主角"
+          dialogues:
+            - dialogue_id: 1
+              type: "spoken"
+              speaker: "她直接"
+              line: "这里。"
+              action: ""
+              note: ""
+    - act_id: 2
+      act_title: "神秘发现"
+      scenes:
+        - scene_id: 1
+          location: "室内·咖啡馆"
+          time: "夜"
+          mood: "紧张"
+          scene_note: ""
+          characters:
+            - name: "她直接"
+              role: "主角"
+          dialogues:
+            - dialogue_id: 1
+              type: "spoken"
+              speaker: "她直接"
+              line: "这里。"
+              action: ""
+              note: ""
+    - act_id: 3
+      act_title: "真相揭露"
+      scenes:
+        - scene_id: 1
+          location: "室内·咖啡馆"
+          time: "夜"
+          mood: "紧张"
+          scene_note: ""
+          characters:
+            - name: "她直接"
+              role: "主角"
+          dialogues:
+            - dialogue_id: 1
+              type: "spoken"
+              speaker: "她直接"
+              line: "这里。"
+              action: ""
+              note: ""
+    - act_id: 4
+      act_title: "共同行动"
+      scenes:
+        - scene_id: 1
+          location: "室内·咖啡馆"
+          time: "夜"
+          mood: "紧张"
+          scene_note: ""
+          characters:
+            - name: "她直接"
+              role: "主角"
+          dialogues:
+            - dialogue_id: 1
+              type: "spoken"
+              speaker: "她直接"
+              line: "这里。"
+              action: ""
+              note: ""
+    - act_id: 5
+      act_title: "深入调查"
+      scenes:
+        - scene_id: 1
+          location: "室内·咖啡馆"
+          time: "夜"
+          mood: "紧张"
+          scene_note: ""
+          characters:
+            - name: "她直接"
+              role: "主角"
+          dialogues:
+            - dialogue_id: 1
+              type: "spoken"
+              speaker: "她直接"
+              line: "这里。"
+              action: ""
+              note: ""
+    - act_id: 6
+      act_title: "真相大白"
+      scenes:
+        - scene_id: 1
+          location: "室内·咖啡馆"
+          time: "夜"
+          mood: "紧张"
+          scene_note: ""
+          characters:
+            - name: "她直接"
+              role: "主角"
+          dialogues:
+            - dialogue_id: 1
+              type: "spoken"
+              speaker: "她直接"
+              line: "这里。"
+              action: ""
+              note: ""
