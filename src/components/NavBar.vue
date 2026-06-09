@@ -3,7 +3,7 @@
   <nav class="navbar" :class="{ scrolled: isScrolled }">
     <div class="navbar-inner container">
       <router-link to="/" class="navbar-logo">
-        Novel<span>2Script</span>
+        幕启 <span>· MuQi</span>
       </router-link>
 
       <div class="navbar-links" :class="{ open: mobileOpen }">

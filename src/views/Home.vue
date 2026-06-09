@@ -10,7 +10,7 @@
         </div>
         <h1 class="hero-title">把小说变成剧本，<br>每一步都清清楚楚。</h1>
         <p class="hero-subtitle">
-          Novel2Script 自动将小说转为结构化剧本——角色、场景、对白，像填表格一样整齐。每一步都可审核、可调整、可导出。
+          幕启 MuQi 自动将小说转为结构化剧本——角色、场景、对白，像填表格一样整齐。每一步都可审核、可调整、可导出。
         </p>
         <div class="hero-cta-group">
           <router-link to="/convert" class="btn-primary">粘贴小说，免费生成剧本</router-link>
@@ -28,7 +28,7 @@
             <span class="code-title">output.yaml</span>
           </div>
           <pre class="code-body"><code>
-<span class="yaml-comment"># Novel2Script 结构化输出</span>
+<span class="yaml-comment"># 幕启 MuQi 结构化输出</span>
 <span class="yaml-key">script</span><span class="yaml-colon">:</span>
   <span class="yaml-key">meta</span><span class="yaml-colon">:</span>
     <span class="yaml-key">title</span><span class="yaml-colon">:</span> <span class="yaml-value">"深夜咖啡馆"</span>
@@ -46,7 +46,7 @@
   <section id="features">
     <div class="container">
       <div class="section-header reveal">
-        <h2 class="section-title">为什么选 Novel2Script？</h2>
+        <h2 class="section-title">为什么选幕启 MuQi？</h2>
         <p class="section-subtitle">不只是换个格式，让每一句对白都能被找到、修改和复用</p>
       </div>
       <div class="features-grid">
@@ -62,7 +62,7 @@
 
       <!-- 结构化的力量：对比展示 -->
       <div class="compare-showcase reveal">
-        <h3 class="compare-showcase-title">结构化的力量：传统剧本 vs Novel2Script</h3>
+        <h3 class="compare-showcase-title">结构化的力量：传统剧本 vs 幕启 MuQi</h3>
         <div class="compare-showcase-grid">
           <div class="compare-card bad">
             <div class="compare-card-label">传统剧本（纯文本）</div>
@@ -73,7 +73,7 @@
             </div>
           </div>
           <div class="compare-card good">
-            <div class="compare-card-label">结构化剧本（Novel2Script）</div>
+            <div class="compare-card-label">结构化剧本（幕启 MuQi）</div>
             <div class="compare-card-items">
               <div><span class="icon-yes">✓</span>按角色一键筛选所有对白</div>
               <div><span class="icon-yes">✓</span>场景数量自动统计</div>
@@ -138,7 +138,7 @@
 
         <div class="proof-cta">
           <p class="proof-stat">内测招募中，前 100 名免费使用 3 个月</p>
-          <p class="proof-stat-desc">网文作者、短剧编剧、影视工作室正在用 Novel2Script 将小说转化为结构化剧本。</p>
+          <p class="proof-stat-desc">网文作者、短剧编剧、影视工作室正在用幕启 MuQi 将小说转化为结构化剧本。</p>
           <router-link to="/convert" class="btn-primary">申请内测，前 100 名免费 3 个月</router-link>
         </div>
       </div>
@@ -157,7 +157,7 @@
 <span class="yaml-value">来了？'他头也不回。'合同的事。'苏晚</span>
 <span class="yaml-value">把文件拍在桌上。他终于转过身，目光微冷。"</span>
 
-<span class="yaml-comment"># ↓ Novel2Script 输出（短剧格式）</span>
+<span class="yaml-comment"># ↓ 幕启 MuQi 输出（短剧格式）</span>
 
 <span class="yaml-key">scene</span><span class="yaml-colon">:</span>
   <span class="yaml-key">location</span><span class="yaml-colon">:</span> <span class="yaml-value">室内·总裁办公室</span>
