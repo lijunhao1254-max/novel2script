@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-console.log('=== Novel2Script 转换测试 ===\n');
+console.log('=== 幕启 MuQi 转换测试 ===\n');
 
 // 读取示例小说
 const novelPath = path.join(process.cwd(), 'example_novel.txt');

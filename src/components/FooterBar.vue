@@ -2,8 +2,8 @@
   <footer class="footer">
     <div class="footer-inner container">
       <div class="footer-brand">
-        <span class="footer-logo">Novel<span>2Script</span></span>
-        <p>结构化剧本引擎。把小说变成剧本，每一步都清清楚楚。</p>
+        <span class="footer-logo">幕启<span> · MuQi</span></span>
+        <p>AI 驱动的结构化剧本引擎。把小说变成剧本，每一步都清清楚楚。</p>
       </div>
       <div class="footer-col">
         <h4>产品</h4>
@@ -29,7 +29,7 @@
       </div>
     </div>
     <div class="footer-bottom">
-      <p>&copy; {{ currentYear }} Novel2Script. All rights reserved.</p>
+      <p>&copy; {{ currentYear }} 幕启 MuQi. All rights reserved.</p>
     </div>
   </footer>
 </template>

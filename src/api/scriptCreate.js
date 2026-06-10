@@ -464,7 +464,7 @@ export async function createScriptFromYaml({
     onProgress?.(i + 1, total, `完成：${sceneName}`)
   }
 
-  fullScript += '\n\n---\n_由 Novel2Script · AI 创作引擎生成_\n'
+  fullScript += '\n\n---\n_由 幕启 MuQi · AI 创作引擎生成_\n'
 
   return { ok: true, text: fullScript }
 }

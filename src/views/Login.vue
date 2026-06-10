@@ -14,7 +14,7 @@
             </linearGradient>
           </defs>
         </svg>
-        <span>Novel2Script</span>
+        <span>幕启 · MuQi</span>
       </div>
 
       <!-- 标题 -->

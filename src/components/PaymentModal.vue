@@ -165,8 +165,8 @@
                   <rect x="81" y="65" width="6" height="6" fill="#000"/>
                   <rect x="81" y="73" width="12" height="12" fill="#000"/>
                   <rect x="65" y="81" width="20" height="12" fill="#000"/>
-                  <!-- Novel2Script 标识 -->
-                  <text x="50" y="96" text-anchor="middle" font-size="6" fill="#666" font-family="monospace">Novel2Script</text>
+                  <!-- 幕启 MuQi 标识 -->
+                  <text x="50" y="96" text-anchor="middle" font-size="6" fill="#666" font-family="monospace">幕启 MuQi</text>
                 </svg>
               </div>
               <div class="qr-expire">

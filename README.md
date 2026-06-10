@@ -1,4 +1,4 @@
-# 🎬 Novel2Script · AI 小说转剧本工具
+# 🎬 幕启 MuQi · AI 小说转剧本工具
 
 > 一键将小说文本转化为结构化 YAML 剧本，支持 AI 反向创作完整剧本文稿，专为影视编剧、独立创作者打造。
 
@@ -95,7 +95,7 @@ novel2script-frontend/
 ```bash
 # 克隆项目
 git clone https://github.com/lijunhao1254-max/novel2script.git
-cd novel2script
+cd novel2script-frontend
 
 # 安装依赖
 npm install
@@ -158,5 +158,5 @@ MIT © 2024 黎君豪
 ---
 
 <p align="center">
-  <b>Novel2Script</b> · 让 AI 成为你的专属编剧助手
+  <b>幕启 MuQi</b> · 让 AI 成为你的专属编剧助手
 </p>

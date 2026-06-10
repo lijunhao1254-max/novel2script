@@ -401,7 +401,7 @@ function downloadYaml() {
   const blob = new Blob([store.outputText], { type: 'text/yaml' })
   const a = document.createElement('a')
   a.href = URL.createObjectURL(blob)
-  a.download = 'novel2script-output.yaml'
+  a.download = 'muqi-output.yaml'
   a.click()
   URL.revokeObjectURL(a.href)
   showSuccess('YAML 文件下载中…')
